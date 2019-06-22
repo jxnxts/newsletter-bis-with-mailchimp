@@ -4,6 +4,7 @@ Formulário de inscrição de newsletter  com Node.js, Express.js e a API MailCh
 <br>
 
 Dependência:
-    <li>bodyParser</li>
+ <p>   <li>bodyParser</li>
     <li>Express</li>
     <li>Request</li>
+    <p>

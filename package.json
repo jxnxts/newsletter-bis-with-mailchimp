@@ -1,0 +1,28 @@
+{
+  "name": "mailchimpapi",
+  "version": "1.0.0",
+  "description": "Formulário de inscrição de newsletter  com Node.js, Express.js e a API MailChimp",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jxnxts/newsletter-bis-with-mailchimp.git"
+  },
+  "author": "jxnxts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jxnxts/newsletter-bis-with-mailchimp/issues"
+  },
+  "homepage": "https://github.com/jxnxts/newsletter-bis-with-mailchimp#readme",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
